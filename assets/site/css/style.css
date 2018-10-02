@@ -1,0 +1,23 @@
+.flash-container {
+    position: absolute;
+    right: 15px;
+    left: 265px;
+    top: 58px;
+    z-index: 1001;
+}
+.alert-close {
+    float: right;
+    cursor: pointer;
+    font-size: 2em;
+    line-height: .7;
+    vertical-align: middle;
+    font-style: normal;
+    font-weight: normal;
+    color: #cacccd
+}
+
+.error-tag{
+  color: #a94442;
+  margin-bottom:5px;
+  margin-top: 5px; 
+}
